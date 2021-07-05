@@ -1,3 +1,47 @@
 body{
     margin: 0;
+    font-family: 'Roboto', sans-serif;
 }
+.top_item{
+    display: flex;
+}
+.half_width{
+width: 50%;
+}
+.half_width img{
+    width: 95%;
+   
+}
+.word_color{
+    color: coral;
+}
+.heading{
+    margin-top: 28%;
+    margin-left: 15%;
+}
+strong{
+    display: block;
+    font-size: 85px;
+    font-weight: 900;
+    color: #575757;
+    
+}
+
+.link_button{
+    text-decoration: none;
+    background-image: linear-gradient(#f7a36e,#fa5433); 
+    padding: 30px 65px;
+    border-radius: 50px;
+    box-shadow: 10px 10px 40px #f37056;
+    color: white;
+    font-size: 25px;
+   
+}
+p{
+    font-size: 30px;
+    color: #808080;
+    padding: 20px 0px;
+}
+
+
+
