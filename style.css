@@ -1,6 +1,6 @@
 body{
     margin: 0;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 /* top section start */
 .top_item{
@@ -25,7 +25,7 @@ width: 50%;
 }
 strong{
     display: block;
-    font-size: 75px;
+    font-size: 65px;
     font-weight: 900;
     color: #575757;
     
@@ -141,7 +141,7 @@ h2{
 }
 /* recipies section end */
 
-
+/* expertise section start */
 .expertise{
     background-image: url(image/Frame\ 59.jpg);
     background-repeat: no-repeat;
@@ -177,7 +177,7 @@ h2{
     font-size: 18px;
     margin-right: 100px;
 }
-
+/* expertise section end */
 
 /* poplarity section start */
 .popularity{
@@ -200,7 +200,7 @@ h2{
 }
 .content h1{
     font-size: 45px;
-    font-weight: bold;
+    font-weight: 900;
 }
 
 .content p{
