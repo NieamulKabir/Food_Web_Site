@@ -179,10 +179,45 @@ h2{
 }
 /* expertise section end */
 
+.inspiration_item{
+ 
+  background-color: rgb(243, 242, 242);
+  background-size: 100%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+.inspiration{
+    display: flex;
+    margin-bottom: 5%;
+}
+.inspiration_content{
+    width: 50%;
+    
+}
+.inspiration_content img{
+    width: 100%;
+    height: 100%;
+    margin-top: 5%;
+    margin-left: 20px;
+}
+.inspiration_content h1{
+    padding: 40px;
+    margin-left: 40px;
+    font-size: 50px;
+    margin-top: 10%;
+}
+.inspiration_content p{
+    padding: 0px 40px;
+    margin-left: 40px;
+    font-size: 20px;
+}
+
+
+
 /* poplarity section start */
 .popularity{
     width: 90%;
-    margin-top: 5%;
+    margin-top: 10%;
 
 }
 .popularity_content{
