@@ -142,9 +142,47 @@ h2{
 /* recipies section end */
 
 
+.expertise{
+    background-image: url(image/Frame\ 59.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.expertise h1{
+   padding-top: 50px;
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+}
+.expertise_content{
+    display: flex;
+
+}
+.ex_content{
+    width: 40%;
+    margin-left: 5%;
+    margin-bottom: 5%;
+}
+.ex_content img{
+    margin-top: 10%;
+    border-radius: 15px;
+    width: 85%;
+    box-shadow: 15px 15px 30px rgb(63, 26, 2);
+   
+}
+.ex_content h3{
+    margin-top: 40px;
+    font-size: 30px;
+}
+.ex_content p{
+    font-size: 18px;
+    margin-right: 100px;
+}
+
+
 /* poplarity section start */
 .popularity{
     width: 90%;
+    margin-top: 5%;
 
 }
 .popularity_content{
