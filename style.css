@@ -180,9 +180,9 @@ h2{
 /* expertise section end */
 
 .inspiration_item{
- 
-  background-color: rgb(243, 242, 242);
-  background-size: 100%;
+    background-color: rgb(243, 242, 242);
+  background-image: url(image/exp-bg.png);
+  background-repeat: no-repeat;
   margin-top: 5%;
   margin-bottom: 5%;
 }
@@ -222,24 +222,25 @@ h2{
 }
 .popularity_content{
     display: flex;
-    margin-left: 12%;
-    margin-right: 3%;
+    margin-left: 15%;
     margin-bottom: 10%;
     box-shadow: 10px 10px 50px rgb(218, 214, 214);
     border-radius: 20px;
-    padding: 30px 30px;
+    padding: 30px 20px;
     align-items: center;
 }
 .content{
-    margin-left: 130px;
+    margin-left: 120px;
 }
 .content h1{
+    margin-left: 40px;
     font-size: 45px;
     font-weight: 900;
 }
 
 .content p{
-    font-size: 22px;
+    font-size: 20px;
+    margin-left: 40px;
 }
 
 /* popularity section start */
